@@ -1,0 +1,30 @@
+.header {
+
+    height: calc(90vh - 50px);
+    width: 50%;
+    position: sticky;
+    top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+    img {
+        width: 150px;
+        height: auto;
+    }
+
+    .name {
+        display: flex;
+        flex-direction: row;
+        margin: 0;
+        align-items: flex-end;
+
+        h1 {
+            font-size: 4rem;
+            margin: 0;
+        }
+    }
+
+}

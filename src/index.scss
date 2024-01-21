@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+
+* {
+    font-family: 'Quicksand', sans-serif;
+    color: 00004d;
+    margin: 0;
+}
+
+body {
+    background-image: url('../src/assets/Background.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 50px);
+    overflow: hidden;
+}
