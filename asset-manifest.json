@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e39854a.css",
-    "main.js": "/static/js/main.6a004025.js",
-    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
-    "static/media/Niagara.jpg": "/static/media/Niagara.e454f240b032fc244805.jpg",
-    "static/media/Sawing.jpg": "/static/media/Sawing.b666843a60455057c576.jpg",
-    "static/media/Camping.jpg": "/static/media/Camping.4949a6fbf11afa4045e5.jpg",
-    "static/media/Engine Bay.jpg": "/static/media/Engine Bay.3bf59f4dfee3e45d7674.jpg",
-    "static/media/Background.jpg": "/static/media/Background.ce20794dc1dee31768ba.jpg",
-    "static/media/Gwangjang.jpg": "/static/media/Gwangjang.a5cbbb833fe67e824d8a.jpg",
-    "static/media/Gapyeong.jpg": "/static/media/Gapyeong.4cfe956054ea2032ee63.jpg",
-    "static/media/Construction.jpg": "/static/media/Construction.40d09391a28d6395fdd6.jpg",
-    "static/media/BBQ.jpg": "/static/media/BBQ.138856db1771149184c3.jpg",
-    "static/media/Kayak.jpg": "/static/media/Kayak.cd901051b9c0e5b09a59.jpg",
-    "static/media/myLogo.png": "/static/media/myLogo.97b3155fbf2cf2649141.png",
-    "index.html": "/index.html",
-    "main.9e39854a.css.map": "/static/css/main.9e39854a.css.map",
-    "main.6a004025.js.map": "/static/js/main.6a004025.js.map",
-    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.df4c6cdf.css",
+    "main.js": "/portfolio/static/js/main.21c99ab6.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Niagara.jpg": "/portfolio/static/media/Niagara.e454f240b032fc244805.jpg",
+    "static/media/Sawing.jpg": "/portfolio/static/media/Sawing.b666843a60455057c576.jpg",
+    "static/media/Camping.jpg": "/portfolio/static/media/Camping.4949a6fbf11afa4045e5.jpg",
+    "static/media/Engine Bay.jpg": "/portfolio/static/media/Engine Bay.3bf59f4dfee3e45d7674.jpg",
+    "static/media/Background.jpg": "/portfolio/static/media/Background.ce20794dc1dee31768ba.jpg",
+    "static/media/Gwangjang.jpg": "/portfolio/static/media/Gwangjang.a5cbbb833fe67e824d8a.jpg",
+    "static/media/Gapyeong.jpg": "/portfolio/static/media/Gapyeong.4cfe956054ea2032ee63.jpg",
+    "static/media/Construction.jpg": "/portfolio/static/media/Construction.40d09391a28d6395fdd6.jpg",
+    "static/media/BBQ.jpg": "/portfolio/static/media/BBQ.138856db1771149184c3.jpg",
+    "static/media/Kayak.jpg": "/portfolio/static/media/Kayak.cd901051b9c0e5b09a59.jpg",
+    "static/media/myLogo.png": "/portfolio/static/media/myLogo.97b3155fbf2cf2649141.png",
+    "index.html": "/portfolio/index.html",
+    "main.df4c6cdf.css.map": "/portfolio/static/css/main.df4c6cdf.css.map",
+    "main.21c99ab6.js.map": "/portfolio/static/js/main.21c99ab6.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e39854a.css",
-    "static/js/main.6a004025.js"
+    "static/css/main.df4c6cdf.css",
+    "static/js/main.21c99ab6.js"
   ]
 }
